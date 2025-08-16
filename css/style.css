@@ -83,8 +83,8 @@
 
     .stats{display:grid; grid-template-columns: repeat(4, 1fr); gap:16px; margin-top:18px}
     .stat{background:rgba(255,255,255,.02); border:1px solid var(--cor-borda); border-radius:16px; padding:16px; text-align:center}
-    .stat strong{font-size:1.4rem}
-    .stat span{display:block; color:var(--cor-texto-suave); font-size:.95rem}
+    .stat strong{font-size:1.5rem}
+    .stat span{display:block; color:var(--cor-texto-suave); font-size:.98rem}
 
     /*
     ===============================================
